@@ -469,7 +469,7 @@ gem 'gitaly', '~> 13.7.0.pre.rc1'
 
 gem 'grpc', '~> 1.30.2'
 
-gem 'google-protobuf', '~> 3.12'
+gem 'google-protobuf', '~> 3.19'
 
 gem 'toml-rb', '~> 1.0.0'
 
