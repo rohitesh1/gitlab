@@ -268,7 +268,7 @@ gem 'sanitize', '~> 5.2.1'
 gem 'babosa', '~> 1.0.2'
 
 # Sanitizes SVG input
-gem 'loofah', '~> 2.2'
+gem 'loofah', '~> 2.19'
 
 # Working with license
 gem 'licensee', '~> 8.9'
